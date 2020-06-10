@@ -1,6 +1,6 @@
 package hello
 
 // Greet Greets GitHub Actions
-func Greet() string {
+func Hello() string {
 	return "Hello GitHub Actions. CI Runs yo"
 }
